@@ -1,0 +1,25 @@
+Crear una aplicación que se ejecute por consola y que tenga las siguientes funcionalidades:
+
+Todo utilizando Programación Orientada a Objetos
+
+- Ingresar como cliente
+    
+    El ingreso como cliente tendrá las siguientes funcionalidades:
+    
+    - Crear cuenta (o de lo contrario ingresar como visitante)
+    - Visualizar todas las propiedades que tenemos en este momento en nuestra base de datos
+    - Agendar visita a propiedades
+- Ingresar como asesor
+    
+    El ingreso como asesor tendrá las siguientes funcionalidades:
+    
+    - Si tienes cuenta ingresar tu usuario y contraseña
+    - Si no tienes cuenta llenar el formulario para crear cuenta
+    
+    Al ingresar:
+    
+    - Agregar propiedad
+    - Editar información de propiedad
+    - Agregar cliente
+    - Eliminar cliente
+    - Ir al apartado de mensajes: Revisar notificaciones de qué clientes agendaron visita y de clientes que han sido agregados.
