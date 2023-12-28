@@ -1,0 +1,5 @@
+Aquí irán los requisitos de la clase propiedad
+
+Clase propiedad (Super clase):
+Atributos: Identificación, tipo de propiedad, precio (rango), ubicación (departamento/ciudad/barrio/urbanización), características(Area, #habitaciones, #baños, #parqueaderos, tipo de cocina (abierta o cerrada), piso (si es apartamento), a cargo de cuál asesor está).
+

@@ -11,9 +11,5 @@ Clase Asesor (Hereda de la clase Usuario):
 Atributos: Nombre, cédula (número de identificación), número de contacto, email, identificación dentro de la empresa.
 -Funciones: Agregar propiedades, Agregar clientes (crear cuenta de clientes), editar información de propiedades, recibir notificaciones de clientes agregados por otros, eliminar clientes, recibir notificaciones de los clientes que agrendaron visitas con ellos. (Tener en mente una nueva funcionalidad que será tener acceso a una base de datos donde se guarde la información de todos los inicios de sesión (visitas)).
 
-Clase propiedad (Super clase):
-Atributos: Identificación, tipo de propiedad, precio (rango), ubicación (departamento/ciudad/barrio/urbanización), características(Area, #habitaciones, #baños, #parqueaderos, tipo de cocina (abierta o cerrada), piso (si es apartamento), a cargo de cuál asesor está).
-
-Pendiente: La grafición de la arquitectura del programa.
 
 
